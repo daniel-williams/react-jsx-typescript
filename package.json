@@ -1,0 +1,17 @@
+{
+  "name": "react-jsx-typescript",
+  "version": "0.1.0",
+  "description": "React, JSX, and Typescript. WIP",
+  "scripts": {
+  },
+  "author": "Daniel James Williams",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1"
+  },
+  "devDependencies": {
+    "tsd": "^0.6.5"
+  }
+}
